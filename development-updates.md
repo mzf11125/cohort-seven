@@ -22,6 +22,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | [Kris](https://github.com/krisoshea-eth/)       | [Update 0](https://hackmd.io/@krisos/rJZ18M_-fg)                                                    |        |        |
 | [Mario](https://github.com/taxmeifyoucan/)      | [ Update 0](https://notes.ethereum.org/@MarioHavel/week0)                                           |        |        |
 | [Marko](https://github.com/markolazic01)        | [Update 0](https://hackmd.io/@lqzic/week-0-update)                                                  |        |        |
+| [Mohit](https://github.com/groverInnovate)      | [Update 0](https://hackmd.io/@groverInnovate/EPF7_Week0)                                            |        |        |
 | [Rahul](https://github.com/rahulbarmann/)       | [Update 0](https://hackmd.io/@8t0zzURJSC6IX5BOuOiGqQ/Sk0vwhHZfg)                                    |        |        |
 | [Sagar](https://www.github.com/SoarinSkySagar)  | [Update 0](https://hackmd.io/@5d9IS104QYmhm-pr1ypNJg/Bk3xoWQbGg)                                    |        |        |
 | [Sameer](https://github.com/SamAg19)            | [Update 0](https://hackmd.io/@samag19/BkqGmuHbzl)                                                   |        |        |
