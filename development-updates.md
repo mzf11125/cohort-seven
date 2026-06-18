@@ -21,6 +21,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | [Daniel](https://github.com/perfogic)           | [Update 0](https://hackmd.io/@rY6uGs23RIKpNYTQc4mY_g/SkvmzE0Zfe)                                    |        |        |
 | [Jack CC](https://github.com/JackCC703/)        | [Update 0](https://hackmd.io/@jackcc/epf7-week0)                                                    |        |        |
 | [Jeff](https://www.github.com/jeffoodchain)     | [Update 0](https://hackmd.io/BEM-xj5dRBeh3MGHYIvYeQ)                                                |        |        |
+| [Josh](https://github.com/JO-OLADEJI)           | [Update 0](https://hackmd.io/@hiOAMmPVSB6rKJF3A0TJIA/By6GJsnZGx)                                    |        |        |
 | [Keshav](https://www.github.com/keshavsharma25) | [Update 0](https://hackmd.io/@keshav0x/SJpIr3UWfl)                                                  |        |        |
 | [Kris](https://github.com/krisoshea-eth/)       | [Update 0](https://hackmd.io/@krisos/rJZ18M_-fg)                                                    |        |        |
 | [Kimi](https://github.com/KimiWu123)            | [Update 0](https://hackmd.io/@kimiwu/Bk3E5QRWzl)                                                    |        |        |
